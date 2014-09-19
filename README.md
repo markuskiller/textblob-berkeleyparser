@@ -1,7 +1,7 @@
 textblob-berkeleyparser
 =======================
 
-``TextBlob`` model extension: wrapper classes for ``BerkeleyParser``
+[TextBlob](http://textblob.readthedocs.org/en/dev/) model extension: wrapper classes for ``BerkeleyParser``
 
 Currently hosted in private repository.
 
